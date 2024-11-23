@@ -2,13 +2,6 @@
 
 This project explores handwriting recognition using motion sensor data without relying on traditional visual input. Our model uses yaw, pitch, and roll data captured from a motion sensor-equipped pen to classify handwritten English letters, aiming for applications in VR/AR and scenarios where visual-based methods are impractical.
 
-## Authors
-
-- [Raman](https://github.com/RAMAN0330)
-- [Roma](https://github.com/romajoshi17)
-- [Aman](https://github.com/Aman-Vishwakarma1729)
-- [Bhuvan](https://github.com/BhuvanKapoor)
-- [Bharat](https://github.com/Sh-bharat)
 
 ## Table of Contents
 
@@ -80,3 +73,10 @@ This study demonstrates that motion sensor data can be effective for handwriting
 - Improving generalization with cross-validation.
 - Using alternative sensors like VR controllers for better accuracy.
 
+## Authors
+
+- [Bhuvan](https://github.com/BhuvanKapoor)
+- [Aman](https://github.com/Aman-Vishwakarma1729)
+- [Raman](https://github.com/RAMAN0330)
+- [Roma](https://github.com/romajoshi17)
+- [Bharat](https://github.com/Sh-bharat)
